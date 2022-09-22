@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shawn Bataju</h1>
 <h3 align="center">I value NATURE 🌿🦦 and KINDNESS 🫱🏽‍🫲🏾</h3>
-<img align = "center" width = "1000" src = https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9viHX9M1W16rTco88feDe5SYqOSI8rbrEu7BMhDdbsqNIGGR0uIQq8NNbFMyuovOFLBU9s-hTIFhhT6KDH4-EAwUY82w3BmajHn_oJ8dsxt-p1fCo7GRDhfAUtqp54dHPu-PBIEPWktXnBECW0bn_inTKMoWA0ZqKoJPEvGCMvA-zFQpCsSUqB3Qj/w640-h192/Cover%20Banner%20for%20GitHub.gif>
+<img align = "center" src = https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9viHX9M1W16rTco88feDe5SYqOSI8rbrEu7BMhDdbsqNIGGR0uIQq8NNbFMyuovOFLBU9s-hTIFhhT6KDH4-EAwUY82w3BmajHn_oJ8dsxt-p1fCo7GRDhfAUtqp54dHPu-PBIEPWktXnBECW0bn_inTKMoWA0ZqKoJPEvGCMvA-zFQpCsSUqB3Qj/s1971/Cover%20Banner%20for%20GitHub.gif>
 
 
 <h3>About me:</h3>
