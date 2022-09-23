@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shawn Bataju</h1>
+<h1>
+<img align = "center" width = "1000" src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdkc9hKJmrpbldmtkLSSRbZ-hy7cKFa5MmjQls9hySE0D89f3CQeEPmRb9rEo0R1n2Z9PjICFpGLTrFD_ajKaXnp8llWGAcyjb4WyokcU4DuXZW1tnj4vLiaMWc03cGWpZ3kP1zdX31TGS_wh5a07L2ubcY3-GbTrGTN2YLQ6rp9DMMDvBVWkadEjR/w640-h192/Shawn%20Bataju%20Banner.gif">
+</h1>
+
 <h3 align="center">I value NATURE 🌿🦦 and KINDNESS 🫱🏽‍🫲🏾</h3>
-<img align = "center" src = https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9viHX9M1W16rTco88feDe5SYqOSI8rbrEu7BMhDdbsqNIGGR0uIQq8NNbFMyuovOFLBU9s-hTIFhhT6KDH4-EAwUY82w3BmajHn_oJ8dsxt-p1fCo7GRDhfAUtqp54dHPu-PBIEPWktXnBECW0bn_inTKMoWA0ZqKoJPEvGCMvA-zFQpCsSUqB3Qj/s1971/Cover%20Banner%20for%20GitHub.gif>
+<img align="right" alt="Coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8_ktiuFz00agus3XNnJ42G_ImVNd9c-I3-topbaN-rmGRWF63-JZLMTplMXWpTV46Xqz-Dyfbg-HRu3xC83sLBarhPRXQ_OWy9bnNfqPdTVnMu13pPIA4-_mdOjDdNc7iq9n1PAFybObAMaSloCfnBAEC0gMWQVK6N6_4PgFICOcSRNPJmaCANOJy/s320/human%20at%20work.png">
 
 
 <h3>About me:</h3>
 <p>I started my coding journey through C++ classes in college.
-I am a Computer Science student at UNL and attending a web developer bootcamp through Promineo Tech. I have been building skills for a career in Software development and enjoy the problem solving aspect in this field very much.</p>
+I am a Computer Science student at UNL and attending a web developer bootcamp through Promineo Tech. I have been learning software development for 2 years. I love to finish what I have started, and I take pride in my work. If I could describe myself in three in words, I would be patient, creative, and caring.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sbataju&label=Profile%20views&color=0e75b6&style=flat" alt="sbataju" /> </p>
 
