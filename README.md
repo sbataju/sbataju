@@ -20,7 +20,7 @@ I am a Computer Science student at UNL and attending a web developer bootcamp th
 
 - 📫 How to reach me **batajushashank@gmail.com**
 
-- ⚡ Fun fact **I am a passionate freshwater fish🐠 and turtle🐢 keeper.**
+- ⚡ Fun fact **I am a freshwater fish🐠 and turtle🐢 keeper.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
